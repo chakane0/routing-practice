@@ -1,0 +1,90 @@
+{
+    "apartments": [
+      {
+        "id": 1,
+        "name": "Sunny Loft in Downtown",
+        "address": "123 Main St, Downtown, Cityville",
+        "price_per_month": 1800,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "square_feet": 950,
+        "available_from": "2025-02-01",
+        "amenities": ["Air Conditioning", "Washer/Dryer", "Balcony", "Gym Access"],
+        "pet_friendly": true,
+        "parking": "Street Parking",
+        "photos": [
+          "https://example.com/photos/apt1_1.jpg",
+          "https://example.com/photos/apt1_2.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Modern 1-Bedroom Condo",
+        "address": "456 Oak Ave, City Center, Townsville",
+        "price_per_month": 1400,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_feet": 750,
+        "available_from": "2025-01-25",
+        "amenities": ["Stainless Steel Appliances", "Hardwood Floors", "Pool"],
+        "pet_friendly": false,
+        "parking": "Assigned Parking",
+        "photos": [
+          "https://example.com/photos/apt2_1.jpg",
+          "https://example.com/photos/apt2_2.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Luxury 3-Bedroom Penthouse",
+        "address": "789 Park Blvd, Uptown, Metrocity",
+        "price_per_month": 3500,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 2000,
+        "available_from": "2025-03-01",
+        "amenities": ["Private Rooftop", "Hot Tub", "Fireplace", "Concierge Service"],
+        "pet_friendly": true,
+        "parking": "Garage Parking",
+        "photos": [
+          "https://example.com/photos/apt3_1.jpg",
+          "https://example.com/photos/apt3_2.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Cozy Studio Near Campus",
+        "address": "101 College Rd, College District, Uni City",
+        "price_per_month": 950,
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "square_feet": 400,
+        "available_from": "2025-02-15",
+        "amenities": ["Furnished", "Wi-Fi Included", "Study Lounge"],
+        "pet_friendly": false,
+        "parking": "Available for Extra Fee",
+        "photos": [
+          "https://example.com/photos/apt4_1.jpg",
+          "https://example.com/photos/apt4_2.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Spacious 2-Bedroom with Backyard",
+        "address": "202 Maple Dr, Suburban Area, Greenfield",
+        "price_per_month": 2200,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "square_feet": 1200,
+        "available_from": "2025-02-10",
+        "amenities": ["Private Backyard", "Dishwasher", "Walk-in Closet", "Fireplace"],
+        "pet_friendly": true,
+        "parking": "2-Car Garage",
+        "photos": [
+          "https://example.com/photos/apt5_1.jpg",
+          "https://example.com/photos/apt5_2.jpg"
+        ]
+      }
+    ]
+  }
+  

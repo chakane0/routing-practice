@@ -1,0 +1,65 @@
+{
+    "activities": [
+      {
+        "id": 1,
+        "name": "Morning Yoga",
+        "type": "Wellness",
+        "duration_minutes": 30,
+        "location": "Beach Park",
+        "date": "2025-01-15",
+        "time": "07:30 AM",
+        "participants": 12,
+        "instructor": "Jane Doe",
+        "rating": 4.8
+      },
+      {
+        "id": 2,
+        "name": "Weekend Hike",
+        "type": "Outdoor",
+        "duration_minutes": 180,
+        "location": "Mountain Trails",
+        "date": "2025-01-17",
+        "time": "09:00 AM",
+        "participants": 25,
+        "instructor": "John Smith",
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "name": "Cooking Class: Italian Cuisine",
+        "type": "Workshop",
+        "duration_minutes": 120,
+        "location": "Chef's Kitchen",
+        "date": "2025-01-20",
+        "time": "06:00 PM",
+        "participants": 8,
+        "instructor": "Maria Rossi",
+        "rating": 5.0
+      },
+      {
+        "id": 4,
+        "name": "Weekend Pilates",
+        "type": "Fitness",
+        "duration_minutes": 45,
+        "location": "City Gym",
+        "date": "2025-01-22",
+        "time": "10:00 AM",
+        "participants": 10,
+        "instructor": "Sophie Taylor",
+        "rating": 4.6
+      },
+      {
+        "id": 5,
+        "name": "Intro to Photography",
+        "type": "Workshop",
+        "duration_minutes": 90,
+        "location": "Art Studio",
+        "date": "2025-01-25",
+        "time": "02:00 PM",
+        "participants": 15,
+        "instructor": "Ethan Lee",
+        "rating": 4.9
+      }
+    ]
+  }
+  
