@@ -1,5 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import WelcomePage from "./WelcomePage";
+import FetchLocalJSON from './FetchLocalJSON'
 
 function Route66() {
     return <p>Hello, Route!</p>;
@@ -12,7 +13,11 @@ export const router = createBrowserRouter([
         element: <Route66 />
     },
     {
-        path: "example1",
+        path: "simpleState",
         element: <WelcomePage />
+    },
+    {
+        path:'fetch-local-json',
+        element: <FetchLocalJSON />
     }
 ]);
